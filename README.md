@@ -1,9 +1,8 @@
-
-# Olá, meu nome é Guilherme Yossef
-
 ## Sobre mim
 
-- 20 anos;
+- Me chamo Guilherme Yossef;
+
+- Tenho 20 anos;
 
 - Estudando Ciências da Computação na UNIP;
 
