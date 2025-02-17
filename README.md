@@ -10,7 +10,7 @@
 
 ## Git Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guiyossef&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=930237&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guiyossef&show_icons=true&theme=transparent&bg_color=000&border_color=000&icon_color=930237&title_color=E94D5F&text_color=FFF)
 
 ## linguagens mais usadas
 
