@@ -12,10 +12,17 @@
 <h3 p align="center">Skills</h3>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github"/>
+    <img src="https://skillicons.dev/icons?i=java,python,js,spring,html,css,mysql,git"/>
   </a>
 </p>
 
+<h3 p align="center">Ferramentas</h3>
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=idea,obsidian,pycharm"/>
+  </a>
+</p>
+<h1></h1>
 <h3 p align="center">Contacts</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/guilhermeyossef/">
